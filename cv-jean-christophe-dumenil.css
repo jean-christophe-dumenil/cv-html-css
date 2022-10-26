@@ -1,0 +1,60 @@
+.header {
+	background-color:rgb(129, 163, 242);
+	text-align: center;
+	padding: 20px;
+}
+.sommaire{
+	text-align: center;
+	word-spacing: 10px;
+}
+h2{
+	color: rgb(223, 23, 20);
+	font-family: 'DM Mono', monospace;
+	font-family: 'Lobster', cursive;
+	font-family: 'Slabo 27px', serif;	
+	font-size: 25
+px;
+}
+.informations{
+	text-align: left;
+}
+.titre_exp{
+	color :black;
+	background-color:rgb(195, 144, 230);
+	text-align: center;
+	padding: 20px;
+}
+li{
+	list-style: none;
+}
+.text{
+	font-size: 15px;
+}  
+.column-layout {
+	text-align: center;
+	display: table;
+	width: 100%;
+	border-collapse: separate;
+}
+.column-layout > div {
+	display: table-cell;
+	width: 20%; /* 100%/3 = 3 colonnes */
+	padding: 10px;
+	border: 5px #F2F2F2 solid;
+	background: #FFF;
+	box-shadow: 0 0 0 1px rgba(0, 0, 0, 0.20) inset;
+}
+.reconversion{
+	color: red;
+}
+.exp{
+	text-align: justify;
+}
+.exp{
+	width: 80%;
+	margin: auto;
+}
+.end{
+	width: 80%;
+	margin: auto;
+}
